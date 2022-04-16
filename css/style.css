@@ -289,4 +289,10 @@ html {
     padding: 10px 25px;
     display: block;
   }
+  .col-3 {
+    float: none;
+    text-align: center;
+    padding: 20px auto;
+    margin: 0 auto;
+  }
 }
